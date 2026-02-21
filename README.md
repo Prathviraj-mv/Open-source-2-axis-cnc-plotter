@@ -28,30 +28,3 @@ This project demonstrates reliable 2D motion control using G-code streamed via *
 
 ## 📸 Project Images
 
-### 🛠️ Hardware Setup
-![Hardware Setup](images/WhatsApp Image 2026-02-21 at 12.46.49.jpeg)
-
----
-
-### ✏️ Plotting in Action
-![Plotting](images/WhatsApp Image 2026-02-21 at 12.46.52.jpeg)
-
----
-
-### 📐 Top View
-![Top View](images/WhatsApp Image 2026-02-21 at 12.46.50 (1).jpeg)
-
----
-
-### 🧩 Mechanical Assembly
-![Mechanical](images/WhatsApp Image 2026-02-21 at 12.46.50.jpeg)
-
----
-
-### 🖥️ Software Interface (UGS)
-![UGS](images/Screenshot 2026-02-21 124727.png)
-
----
-
-### 📐 CAD Model
-![CAD](images/Screenshot 2026-02-21 124755.png)
