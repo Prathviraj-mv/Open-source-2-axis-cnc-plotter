@@ -10,9 +10,8 @@ This project demonstrates reliable 2D motion control using G-code streamed via *
 - Arduino Uno
 - CNC Shield V3
 - A4988 / DRV8825 stepper drivers
-- NEMA17 stepper motors (X, Y, optional Z)
+- NEMA17 stepper motors (X, Y, Z)
 - 12V DC power supply
-- USB cable
 
 ---
 
