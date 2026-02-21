@@ -28,3 +28,10 @@ This project demonstrates reliable 2D motion control using G-code streamed via *
 
 ## 📸 Project Images
 
+| <img src= "Images/WhatsApp Image 2026-02-21 at 12.46.49.jpeg" >| <img src= "Images/WhatsApp Image 2026-02-21 at 12.46.52.jpeg">|
+| --------------------------- | --------------------------- |
+
+# CAD
+<img width="1091" height="651" alt="image" src="Images/Screenshot 2026-02-21 124727.png" />
+
+
